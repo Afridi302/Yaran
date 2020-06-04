@@ -48,6 +48,8 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
+\033[1;93m======================================
+\033[1;92m            ASLLAM O ALIKOM
 \033[1;93m=================ASHIQ==============
 \033[1;92m██╗░░░██╗███████╗███████╗██████╗░
 \033[1;92m██║░░░██║██╔════╝██╔════╝██╔══██╗
@@ -61,7 +63,7 @@ logo = """
 \033[1;93mGANG \033[1;93m: \033[1;93m MALANG GANG
 \033[1;94mGithub \033[1;93m: \033[1;94mhttps://github.com/MAST/AFRIDI
 \033[1;96======================================
-\033[1;93m==MOST WELCOME JEGRIIII PA KHER RAGHLYY=="""
+\033[1;92m==MOST WELCOME JEGRIIII PA KHER RAGHLYY=="""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
