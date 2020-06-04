@@ -56,10 +56,10 @@ logo = """
 \033[1;92m░░░╚═╝░░░╚══════╝╚══════╝╚═╝░░╚═╝
 \033[1;91m=======================================
 \033[1;96mNAME \033[1;93m: \033[1;92m VEER ASHIQ
-\033[1;96mMAST \033[1;93m: \033[1;91m AFRID
-\033[1;96mGANG \033[1;93m: \033[1;93m.MALANG GANG
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MAST/AFRIDI
-\033[1;91m==MOST WELCOME PA KHER RAGHLYY=="""
+\033[1;96mMAST \033[1;93m: \033[1;93m AFRIDI
+\033[1;96mGANG \033[1;93m: \033[1;94m.1;93m MALANG GANG
+\033[1;96mGithub \033[1;93m: \033[1;95mhttps://github.com/MAST/AFRIDI
+\033[1;97m==MOST WELCOME PA KHER RAGHLYY=="""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -79,9 +79,9 @@ os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mNAME  \033[1;93m: \033[1;92m VEER ASHIQ
-\033[1;96m .MAST \033[1;93m: \033[1;92m AFRIDII
-\033[1;96mGang  \033[1;93m: \033[1;92m. MALANG GANG
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MAST/AFRIDI
+\033[1;96m .MAST \033[1;93m: \033[1;93m AFRIDI
+\033[1;96mGang  \033[1;93m: \033[1;94m MALANG GANG
+\033[1;96mGithub \033[1;93m: \033[1;95mhttps://Github.com/MAST/AFRIDI
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
